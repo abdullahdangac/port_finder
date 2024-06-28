@@ -5,7 +5,6 @@ This package finds the port name of a desired device.
 ## Package Usage Example
 ```
 #include <string>
-#include <vector>
 #include <port_finder/port_finder.hpp>
 
 using namespace std;
